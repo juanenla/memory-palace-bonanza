@@ -214,4 +214,4 @@ npm run dev   # servidor local
 - Pregunta en el Zoom
 - Comparte pantalla si necesitas ayuda
 
-¡Nos vemos en el taller! 🏛️✨
+¡Nos vemos en el taller! 🏛️✨test
